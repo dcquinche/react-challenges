@@ -1,5 +1,5 @@
 //import Counter from './Challenges/Counter/Counter';
-//import CallApiAsyncAwait from './Challenges/CallApiAsyncAwait/CallApiAsyncAwait';
+import CallApiAsyncAwait from './Challenges/CallApiAsyncAwait/CallApiAsyncAwait';
 //import CallApiPromise from './Challenges/CallApiPromise/CallApiPromise';
 //import StrCounter from "./Challenges/StrCounter/StrCounter";
 //import Repeter from "./Challenges/Repeter/Repeter";
@@ -11,7 +11,6 @@ function App() {
       {
         /*
         <Counter />
-        <CallApiAsyncAwait />
         <CallApiPromise />
         <StrCounter />
         <Repeter />
@@ -19,7 +18,7 @@ function App() {
         <List />
       */
       }
-
+      <CallApiAsyncAwait />
     </div>
   );
 }
