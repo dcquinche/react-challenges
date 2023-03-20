@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.form__filter {
+  display: flex;
+  gap: 20px;
+  margin-top: 1em;
+}
